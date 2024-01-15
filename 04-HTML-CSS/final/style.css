@@ -19,6 +19,7 @@ h1 {
 h2 {
   margin-bottom: 20px;
   text-align: center;
+  color: blue;
 }
 
 p {
@@ -27,6 +28,10 @@ p {
 
 .first {
   color: red;
+}
+
+#your-name h2 {
+  color: olivedrab;
 }
 
 #your-name {
@@ -49,8 +54,4 @@ a {
 
 #course-image {
   width: 300px;
-}
-
-#your-name h2 {
-  color: olivedrab;
 }
